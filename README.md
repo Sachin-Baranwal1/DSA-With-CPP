@@ -1,5 +1,6 @@
 # DSA With C++
 Hello Everyone.
+<br>
 I am Sachin Baranwal.
 <br>
-I am uplaoding all Code of DSA with C++ of Decode Batch.
+Repository containing all C++ implementations of Data Structures and Algorithms from the Decode Batch.
